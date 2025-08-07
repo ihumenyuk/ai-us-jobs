@@ -1,0 +1,28 @@
+{
+    "fonts": [
+        {
+            "aifont": "Roboto-Regular",
+            "family": "Roboto",
+            "weight": "400",
+            "style": ""
+        },
+        {
+            "aifont": "Roboto-Bold",
+            "family": "Roboto",
+            "weight": "700",
+            "style": ""
+        },
+        {
+            "aifont": "Roboto-Medium",
+            "family": "Roboto",
+            "weight": "700",
+            "style": ""
+        },
+        {
+            "aifont": "Roboto-MediumItalic",
+            "family": "Roboto",
+            "weight": "700",
+            "style": ""
+        }
+    ]
+}
