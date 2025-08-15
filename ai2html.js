@@ -311,6 +311,13 @@ var fonts = [
   {"aifont":"Arial-BoldMT","family":"arial,helvetica,sans-serif","weight":"bold","style":""},
   {"aifont":"Arial-ItalicMT","family":"arial,helvetica,sans-serif","weight":"","style":"italic"},
   {"aifont":"Arial-BoldItalicMT","family":"arial,helvetica,sans-serif","weight":"bold","style":"italic"},
+
+  {"aifont":"Roboto-Bold","family":"'Roboto Bold', 'Roboto', sans-serif","weight":"700","style":""},
+  {"aifont":"Roboto-Regular","family":"'Roboto Regular', 'Roboto', sans-serif","weight":"400","style":""},
+  {"aifont":"Roboto-Medium","family":"'Roboto Medium', 'Roboto', sans-serif","weight":"500","style":""},
+  {"aifont":"Roboto-Black","family":"'Roboto Black', 'Roboto', sans-serif","weight":"900","style":""},
+  {"aifont":"Roboto-Medium Italic","family":"'Roboto Medium Italic', 'Roboto', sans-serif","weight":"500","style":"italic"},
+
   {"aifont":"Georgia","family":"georgia,'times new roman',times,serif","weight":"","style":""},
   {"aifont":"Georgia-Bold","family":"georgia,'times new roman',times,serif","weight":"bold","style":""},
   {"aifont":"Georgia-Italic","family":"georgia,'times new roman',times,serif","weight":"","style":"italic"},
